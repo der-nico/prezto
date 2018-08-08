@@ -112,7 +112,7 @@ function editor-info {
   fi
 
   unset REPLY
-  zle zle-reset-prompt
+  # zle zle-reset-prompt
 }
 zle -N editor-info
 
