@@ -31,3 +31,4 @@
 [submodule "modules/prompt/external/pure-agnoster"]
 	path = modules/prompt/external/pure-agnoster
 	url = https://github.com/der-nico/pure-agnoster.git
+	branch = master
